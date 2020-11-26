@@ -1,5 +1,4 @@
 {
-  "employees": [
     {
       "userName": 1,
       "userPwd": "Post 1"
@@ -12,5 +11,5 @@
       "userName": 3,
       "userPwd": "Post 3"
     }
-  ]}
+  }
   
