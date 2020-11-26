@@ -1,16 +1,4 @@
-{
-  "employees": [
-    {
-      "userName": 1,
-      "userPwd": "Post 1"
-    },
-    {
-      "userName": 2,
-      "userPwd": "Post 2"
-    },
-    {
-      "userName": 3,
-      "userPwd": "Post 3"
-    }
-  ]
-}
+'{ "employee" : [' +
+'{ "firstName":"Bob" , "lastName":"Dilon" },' +
+'{ "firstName":"Ben" , "lastName":"Aflik" },' +
+'{ "firstName":"Natalie" , "lastName":"Kidmun" } ]}'
