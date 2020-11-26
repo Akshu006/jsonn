@@ -1,3 +1,16 @@
-[{"UserName":"Abc","UserPwd":"ABC@123"},
-{"UserName":"Abc1","UserPwd":"ABC@1231"},
-{"UserName":"Abc2","UserPwd":"ABC@1232"}]
+{
+  "employees": [
+    {
+      "userName": 1,
+      "userPwd": "Post 1"
+    },
+    {
+      "userName": 2,
+      "userPwd": "Post 2"
+    },
+    {
+      "userName": 3,
+      "userPwd": "Post 3"
+    }
+  ]}
+  
